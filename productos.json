@@ -1,0 +1,43 @@
+[
+	{
+		"precio": 250,
+		"id": 1,
+		"title": "Fresa",
+		"thumbnailUrl": "https://www.coosur.com/uploads/fotosNewCoosur/pastel-de-fresa-y-nata.jpg"
+	},
+
+	{
+		"precio": 200,
+		"id": 2,
+		"title": "Limon",
+		"thumbnailUrl": "https://dulzzo.com/wp-content/uploads/2019/12/5-Pastel-Limo%CC%81n.jpg"
+	},
+
+	{
+		"precio": 300,
+		"id": 3,
+		"title": "Tiramisu",
+		"thumbnailUrl": "https://dulzzo.com/wp-content/uploads/2019/12/7-Pastel-Tiramisu%CC%81.jpg"
+	},
+
+	{
+		"precio": 350,
+		"id": 4,
+		"title": "Chocolate",
+		"thumbnailUrl": "https://www.sanjoseahora.com.uy/wp-content/uploads/2021/11/anniverssaire-nathan-209.jpg"
+	},
+
+	{
+		"precio": 450,
+		"id": 5,
+		"title": "Matcha",
+		"thumbnailUrl": "https://portales.vilbo.com/files/uploads/images/articulos/d438/mangocha-tarta.jpg"
+	},
+
+	{
+		"precio": 300,
+		"id": 6,
+		"title": "Tres leches",
+		"thumbnailUrl": "https://dulzzo.com/wp-content/uploads/2019/12/8-Pastel-Tres-Leches.jpg"
+	}
+]

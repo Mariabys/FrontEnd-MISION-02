@@ -1,0 +1,43 @@
+[
+	{
+		"precio": 250,
+		"id": 1,
+		"title": "Flor",
+		"thumbnailUrl": "https://i.pinimg.com/originals/64/44/13/6444133935494aa92d8a51ab25100d64.jpg"
+	},
+
+	{
+		"precio": 200,
+		"id": 2,
+		"title": "Tapete",
+		"thumbnailUrl": "https://i.pinimg.com/564x/01/d4/ed/01d4ed07a77d04f5a93c91012c16b272.jpg"
+	},
+
+	{
+		"precio": 300,
+		"id": 3,
+		"title": "Rosas",
+		"thumbnailUrl": "https://i.pinimg.com/564x/d1/fb/01/d1fb013a9bd25bb4fd62e6737620069f.jpg"
+	},
+
+	{
+		"precio": 450,
+		"id": 4,
+		"title": "Naturaleza",
+		"thumbnailUrl": "https://i.pinimg.com/564x/66/89/3c/66893c4187201c434df1ab636c6cd34d.jpg"
+	},
+
+	{
+		"precio": 550,
+		"id": 5,
+		"title": "Elegante",
+		"thumbnailUrl": "https://i.pinimg.com/564x/6b/7e/31/6b7e3175a299e446fb8a7d39ba1709c8.jpg"
+	},
+
+	{
+		"precio": 320,
+		"id": 6,
+		"title": "Campestre",
+		"thumbnailUrl": "https://i.pinimg.com/564x/8f/43/c4/8f43c4ecedf79952315d1cecaed621da.jpg"
+	}
+]
